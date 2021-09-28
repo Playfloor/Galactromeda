@@ -1,6 +1,6 @@
-# STARS
+# Galactromeda
 
-STARS is a 4X turn-based strategy game made in Unity as a student project,
+Galactromeda is a 4X turn-based strategy game made in Unity as a student project,
 heavily inspired by such titles as: Stars!(1995) and Sid Meier's Civilization VI(2016).
 The game allows for local (hot-seat) and remote multiplayer play.
 
